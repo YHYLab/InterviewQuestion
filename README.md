@@ -1,4 +1,4 @@
-# 중국에서 겪었던 InterviewQuestions
+# InterviewQuestions
 
 1. 아래 코드의 결과는 어떤가?  
 매 1초마다 0부터 4까지 출력하려면 어떻게 수정해야 하는가?
